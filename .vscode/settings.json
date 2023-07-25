@@ -1,0 +1,7 @@
+{
+    "scm.inputFontSize": 14,
+    "debug.console.fontSize": 14,
+    "editor.fontSize": 14,
+    "screencastMode.fontSize": 20,
+    "jupyter.jupyterServerType": "local"
+}
